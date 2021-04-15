@@ -21,7 +21,6 @@ function play(clickedID){
         board[clickedID] = 'O'
         victoryCheck()
     }
-
 }
 
 
